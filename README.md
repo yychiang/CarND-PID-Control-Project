@@ -2,9 +2,6 @@
 Self-Driving Car Engineer Nanodegree Program
 
 ---
-## Install on MaxOS
-* sudo chown -R $USER /usr/local
-* ./install-mac.sh
 
 ## Dependencies
 
