@@ -5,7 +5,7 @@ Self-Driving Car Engineer Nanodegree Program
 ## Report
 * Report is: 'Tuning of PID Parameters.pdf'
 ## References
-* 'pid_control_document.pdf' is provided by my project reviewer. [https://udacity-reviews-uploads.s3.amazonaws.com/_attachments/41330/1493863065/pid_control_document.pdf]
+* 'pid_control_document.pdf' is provided by my project reviewer. [http://georgegillard.com/documents/2-introduction-to-pid-controllers]
 ## Dependencies
 
 * cmake >= 3.5
